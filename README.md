@@ -14,23 +14,22 @@
   - [Synthetic Dataset ](https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/synthetic_dataset.ipynb)
   - [Aviator Simulation ](https://github.com/Harvey-Sijenyi/Aviatorgame)
   - [Aviator Simulation2 ]( https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/aviatorgame.ipynb)
-
-  
+ 
   <h2>📺 Mobile Applications (Android Studio) </h2>
   - [Camera Demo](https://github.com/Harvey-Sijenyi/Camera)
   - [List Viewer](https://github.com/Harvey-Sijenyi/ListView-Project)
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="harvey-sijenyi | YouTube" width="22px" src="https://cdn.harvey-sijenyi.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="harvey-sijenyi | Twitter" width="22px" src="https://cdn.harvey-sijenyi.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="harvey-sijenyi | LinkedIn" width="22px" src="https://cdn.harvey-sijenyi.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="harvey-sijenyi | Instagram" width="22px" src="https://cdn.harvey-sijenyi.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://www.linkedin.com/in/harvey-sijenyi/
-[youtube]: https://www.linkedin.com/in/harvey-sijenyi/
-[instagram]: https://www.linkedin.com/in/harvey-sijenyi/
-[linkedin]: https://www.linkedin.com/in/harvey-sijenyi/
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
