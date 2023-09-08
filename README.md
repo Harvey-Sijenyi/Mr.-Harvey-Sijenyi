@@ -20,8 +20,6 @@
   - [Camera Demo](https://github.com/Harvey-Sijenyi/Camera)
   - [List Viewer](https://github.com/Harvey-Sijenyi/ListView-Project)
   
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="harvey-sijenyi | YouTube" width="22px" src="https://cdn.harvey-sijenyi.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
