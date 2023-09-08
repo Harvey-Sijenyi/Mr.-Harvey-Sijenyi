@@ -15,8 +15,8 @@
   - [Aviator Simulation ](https://github.com/Harvey-Sijenyi/Aviatorgame)
   - [Aviator Simulation2 ]( https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/aviatorgame.ipynb)
  - <b>Java# (.NET Mobile Applications)</b>
-  - [Camera Demo](https://github.com/Harvey-Sijenyi/Camera)
-  - [List Viewer](https://github.com/Harvey-Sijenyi/ListView-Project)
+    - [Camera Demo](https://github.com/Harvey-Sijenyi/Camera)
+    - [List Viewer](https://github.com/Harvey-Sijenyi/ListView-Project)
   
 <h2> 🤳 Connect with me:</h2>
 
