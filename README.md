@@ -14,7 +14,7 @@
   - [Synthetic Dataset ](https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/synthetic_dataset.ipynb)
   - [Aviator Simulation ](https://github.com/Harvey-Sijenyi/Aviatorgame)
   - [Aviator Simulation2 ]( https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/aviatorgame.ipynb)
-  - <b>Mobile Application </b>
+ - <b>Java# (.NET Mobile Applications)</b>
   - [Camera Demo](https://github.com/Harvey-Sijenyi/Camera)
   - [List Viewer](https://github.com/Harvey-Sijenyi/ListView-Project)
   
