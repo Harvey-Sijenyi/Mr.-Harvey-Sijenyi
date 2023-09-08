@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harvey Sijenyi! <br/> <a href="https://github.com/Harvey-Sijenyi/"> Cybersecurity Consultant</a>, <a href="https://github.com/Harvey-Sijenyi/Data-Analysis">Data Analyst </a>, <a href="https://github.com/Harvey-Sijenyi/"">SOC Analyst </a>, </h1> <a href="https://github.com/Harvey-Sijenyi/"">Pentester /a></h1>
+<h1>Hi, I'm Harvey Sijenyi! <br/> <a href="https://github.com/Harvey-Sijenyi/"> Cybersecurity Consultant</a>, <a href="https://github.com/Harvey-Sijenyi/Data-Analysis">Data Analyst</a>, <a href="https://github.com/Harvey-Sijenyi/""> SOC Analyst </a>, </h1> <a href="https://github.com/Harvey-Sijenyi/"">Pentester </a></h1>
 
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
@@ -14,9 +14,9 @@
   - [Synthetic Dataset ](https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/synthetic_dataset.ipynb)
   - [Aviator Simulation ](https://github.com/Harvey-Sijenyi/Aviatorgame)
   - [Aviator Simulation2 ]( https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/aviatorgame.ipynb)
-  -
-  - 
-- <b>Mobile Applications (Android Studio) </b>
+
+  
+  <h2>📺 Mobile Applications (Android Studio) </h2>
   - [Camera Demo](https://github.com/Harvey-Sijenyi/Camera)
   - [List Viewer](https://github.com/Harvey-Sijenyi/ListView-Project)
   
@@ -24,9 +24,14 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="harvey-sijenyi | YouTube" width="22px" src="https://cdn.harvey-sijenyi.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="harvey-sijenyi | Twitter" width="22px" src="https://cdn.harvey-sijenyi.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="harvey-sijenyi | LinkedIn" width="22px" src="https://cdn.harvey-sijenyi.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="harvey-sijenyi | Instagram" width="22px" src="https://cdn.harvey-sijenyi.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+[twitter]: https://www.linkedin.com/in/harvey-sijenyi/
+[youtube]: https://www.linkedin.com/in/harvey-sijenyi/
+[instagram]: https://www.linkedin.com/in/harvey-sijenyi/
 [linkedin]: https://www.linkedin.com/in/harvey-sijenyi/
 
 <!--
