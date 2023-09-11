@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
 - <b>CyberSpace Consultancy Website (Expert) </b>
-  - [Praciting HTM, CSS, JAVA, Email. form](https://github.com/Harvey-Sijenyi/https---github.com-Harvey-Sijenyi-CyberSpace-Consultancy)
+  - [Praciting HTM, CSS, JAVA, Email Form] (https://github.com/Harvey-Sijenyi/https---github.com-Harvey-Sijenyi-CyberSpace-Consultancy)
   - [Keylogger with Email Capability](https://github.com/Harvey-Sijenyi/keylogger-project) 
     
 - <b> Data Analysis (.Python# Googlecolab# Jupiter notebook#) </b>
@@ -14,7 +14,7 @@
   - [Synthetic Dataset ](https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/synthetic_dataset.ipynb)
   - [Aviator Simulation ](https://github.com/Harvey-Sijenyi/Aviatorgame)
   - [Aviator Simulation2 ]( https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/aviatorgame.ipynb)
- - <b>Java# (.NET Mobile Applications)</b>
+ - <b>Java# (.NET Mobile Applications) (/b>
     - [Camera Demo](https://github.com/Harvey-Sijenyi/Camera)
     - [List Viewer](https://github.com/Harvey-Sijenyi/ListView-Project)
   
