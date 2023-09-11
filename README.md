@@ -1,9 +1,9 @@
-<h1>Hi, I'm Harvey Sijenyi! <br/> <a href="https://github.com/Harvey-Sijenyi/"> Cybersecurity Consultant</a>, <a href="https://github.com/Harvey-Sijenyi/Data-Analysis">Data Analyst</a>, <a href="https://github.com/Harvey-Sijenyi/"> SOC Analyst </a>, </h1> <a href="https://github.com/Harvey-Sijenyi/"> Pentester </a></h1>
+<h1>Hi, I'm Harvey Sijenyi! <br/> <a href="https://github.com/Harvey-Sijenyi/"> Cybersecurity Consultant </a>, <a href="https://github.com/Harvey-Sijenyi/Data-Analysis">Data Analyst</a>, <a href="https://github.com/Harvey-Sijenyi/"> SOC Analyst </a>, </h1> <a href="https://github.com/Harvey-Sijenyi/"> Pentester </a></h1>
 
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
 - <b>CyberSpace Consultancy Website (Expert) </b>
-  - [Praciting HTM, CSS, JAVA, Email Form] (https://github.com/Harvey-Sijenyi/https---github.com-Harvey-Sijenyi-CyberSpace-Consultancy)
+  - [Praciting HTM, CSS, JAVA, Email Form](https://github.com/Harvey-Sijenyi/https---github.com-Harvey-Sijenyi-CyberSpace-Consultancy)
   - [Keylogger with Email Capability](https://github.com/Harvey-Sijenyi/keylogger-project) 
     
 - <b> Data Analysis (.Python# Googlecolab# Jupiter notebook#) </b>
