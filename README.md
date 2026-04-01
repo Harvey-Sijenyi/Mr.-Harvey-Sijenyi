@@ -1,47 +1,108 @@
-<h1>Hi, I'm Harvey Sijenyi! <br/> <a href="https://github.com/Harvey-Sijenyi/"> Cybersecurity Consultant </a>, <a href="https://github.com/Harvey-Sijenyi/Data-Analysis">DPO | CEH | DFA </a>, <a href="https://github.com/Harvey-Sijenyi/"> SOC Analyst </a>, </h1> 
-<a href="https://github.com/Harvey-Sijenyi/"> Pentester </a></h1>
+<h1 align="center">Hi, I'm Harvey Sijenyi</h1>
 
-<h2>👨‍💻 Cybersecurity Project:</h2>
+<p align="center">
+Cybersecurity Governance, Risk & Resilience Leader (CISO Track) <br/>
+CISA | CISM | CEH | Digital Forensics | AI-Driven Security
+</p>
 
-- <b>CyberSpace Consultancy Website (Expert) </b>
-  - [Praciting HTM, CSS, JAVA, Email Form](https://github.com/Harvey-Sijenyi/https---github.com-Harvey-Sijenyi-CyberSpace-Consultancy)
-  - [Keylogger with Email Capability](https://github.com/Harvey-Sijenyi/keylogger-project) 
-    
-- <b> Data Analysis (.Python# Googlecolab# Jupiter notebook#) </b>
-  - [Ensemble Voting ](https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/Ansemble_voting.ipynb)
-  - [Cross Validation ](https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/Cross_validation.ipynb)
-  - [Decision Tree ](https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/DecisionTree.ipynb)
-  - [Linear Regression ](https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/LinearRegression.ipynb)
-  - [Synthetic Dataset ](https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/synthetic_dataset.ipynb)
-  - [Aviator Simulation ](https://github.com/Harvey-Sijenyi/Aviatorgame)
-  - [Aviator Simulation2 ]( https://github.com/Harvey-Sijenyi/Data-Analysis/blob/master/aviatorgame.ipynb)
- - <b>Java# (.NET Mobile Applications) (/b>
-    - [Camera Demo](https://github.com/Harvey-Sijenyi/Camera)
-    - [List Viewer](https://github.com/Harvey-Sijenyi/ListView-Project)
-  
-<h2> 🤳 Connect with me:</h2>
+<p align="center">
+I design and implement cybersecurity strategies, detection capabilities, and governance frameworks 
+that strengthen organizational resilience and reduce cyber risk.
+</p>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/cyberspace13486
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/cyberspaceconsultancy/
-[linkedin]: https://linkedin.com/in/harvey-sijenyi/
+## 🔐 What I Do
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Design cybersecurity strategies aligned with business risk  
+- Build and optimize Security Operations (SOC) capabilities  
+- Implement Identity & Access Management (IAM) frameworks  
+- Develop AI-driven threat detection and monitoring systems  
+- Support compliance (ISO 27001, NIST, GDPR)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Cybersecurity Projects
+
+### 🔹 SOC Optimization & Detection Engineering Framework
+- Designed detection rules and improved alert triage workflows  
+- Enhanced SIEM/XDR monitoring capabilities  
+- Reduced incident response time and improved threat visibility  
+
+🔗 *(Add your repo link here)*
+
+---
+
+### 🔹 AI-Based Security Monitoring System
+- Built an AI-driven model for anomaly detection  
+- Automated identification of suspicious patterns  
+- Improved threat detection efficiency  
+
+🔗 *(Add your repo link here)*
+
+---
+
+### 🔹 Identity & Access Management (IAM) Framework
+- Designed IAM lifecycle management process  
+- Implemented least privilege and role-based access control  
+- Strengthened identity governance and audit readiness  
+
+🔗 *(Add your repo link here)*
+
+---
+
+### 🔹 Incident Response & Malware Analysis Lab
+- Built a malware analysis lab for threat investigation  
+- Developed incident response workflows and playbooks  
+- Simulated real-world attack scenarios  
+
+🔗 *(Add your repo link here)*
+
+---
+
+## 🧠 Strategic Security Projects (Leadership-Focused)
+
+### 🔹 Cybersecurity Risk Assessment Framework
+- Developed enterprise risk assessment model  
+- Mapped risks to ISO 27001 / NIST controls  
+- Created mitigation and remediation strategies  
+
+---
+
+### 🔹 Zero Trust Security Architecture
+- Designed Zero Trust model for enterprise environments  
+- Integrated IAM, network segmentation, and monitoring  
+- Applied Microsoft security architecture principles  
+
+---
+
+### 🔹 Cloud Security Architecture (Azure)
+- Designed secure cloud architecture using Microsoft stack  
+- Implemented identity protection, monitoring, and compliance controls  
+
+---
+
+## 📊 Core Competencies
+
+- Cybersecurity Strategy & Leadership  
+- Governance, Risk & Compliance (GRC)  
+- Security Operations & Incident Response  
+- Identity & Access Management (IAM)  
+- Detection Engineering & Threat Intelligence  
+- AI in Cybersecurity  
+
+---
+
+## 🤝 Connect with Me
+
+🔗 LinkedIn: https://linkedin.com/in/harvey-sijenyi/  
+📸 Cyber Space Consultancy: https://www.instagram.com/cyberspaceconsultancy/  
+
+---
+
+## ⚡ Strategic Positioning
+
+I am focused on transitioning into senior cybersecurity leadership roles, 
+driving enterprise security strategy, cyber resilience, and risk governance.
+
+---
