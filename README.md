@@ -96,7 +96,6 @@ that strengthen organizational resilience and reduce cyber risk.
 ## 🤝 Connect with Me
 
 🔗 LinkedIn: https://linkedin.com/in/harvey-sijenyi/  
-📸 Cyber Space Consultancy: https://www.instagram.com/cyberspaceconsultancy/  
 
 ---
 
