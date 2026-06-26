@@ -1,107 +1,132 @@
-<h1 align="center">Hi, I'm Harvey Sijenyi</h1>
+<h1 align="center">Hi, I'm Harvey Sijenyi 👋</h1>
 
 <p align="center">
-Cybersecurity Governance, Risk & Resilience Leader (CISO Track) <br/>
-CISA | CISM | CEH | Digital Forensics | AI-Driven Security
+  <strong>Cybersecurity, Governance, Risk & Resilience Leader | CISO Track</strong><br/>
+  CISA · CISM · CEH · DPO · Digital Forensics · AI-Enabled Security
 </p>
 
 <p align="center">
-I design and implement cybersecurity strategies, detection capabilities, and governance frameworks 
-that strengthen organizational resilience and reduce cyber risk.
+  <a href="https://linkedin.com/in/harvey-sijenyi/">LinkedIn</a> •
+  <a href="#featured-work">Featured Work</a> •
+  <a href="#core-competencies">Core Competencies</a> •
+  <a href="#speaking--recognition">Speaking & Recognition</a>
 </p>
 
 ---
 
-## 🔐 What I Do
+## At a Glance
 
-- Design cybersecurity strategies aligned with business risk  
-- Build and optimize Security Operations (SOC) capabilities  
-- Implement Identity & Access Management (IAM) frameworks  
-- Develop AI-driven threat detection and monitoring systems  
-- Support compliance (ISO 27001, NIST, GDPR)  
-
----
-
-## 🚀 Featured Cybersecurity Projects
-
-### 🔹 SOC Optimization & Detection Engineering Framework
-- Designed detection rules and improved alert triage workflows  
-- Enhanced SIEM/XDR monitoring capabilities  
-- Reduced incident response time and improved threat visibility  
-
-🔗 *(Add your repo link here)*
+- 🛡️ **Head of Security and Infrastructure** at a Fintech / Payment Service Provider
+- 🎓 **CISM · CISA · CEH · DPO** certified
+- 🏆 **Top 40 Under 40** Male Personality in Kenya (2024)
+- 🗣️ Assistant Secretary, **ISC² Kenya Chapter**
+- 🌍 Based in Nairobi, Kenya — working across fintech, financial services, and digital infrastructure
 
 ---
 
-### 🔹 AI-Based Security Monitoring System
-- Built an AI-driven model for anomaly detection  
-- Automated identification of suspicious patterns  
-- Improved threat detection efficiency  
+## Core Competencies
 
-🔗 *(Add your repo link here)*
-
----
-
-### 🔹 Identity & Access Management (IAM) Framework
-- Designed IAM lifecycle management process  
-- Implemented least privilege and role-based access control  
-- Strengthened identity governance and audit readiness  
-
-🔗 *(Add your repo link here)*
+| Domain | Focus Areas |
+|---|---|
+| Cybersecurity Leadership | Strategy, governance, executive reporting, cyber resilience |
+| GRC | ISO 27001, NIST, GDPR, Kenya Data Protection Act, risk assessment, audit readiness |
+| Security Operations | SOC maturity, SIEM/XDR, detection engineering, escalation workflows |
+| Incident Response | Playbooks, RCA, containment, recovery, lessons learned |
+| IAM | Access governance, RBAC, least privilege, privileged access reviews |
+| Infrastructure Security | Firewalls, endpoint protection, network security, secure administration |
+| Cloud Security | Azure security, hybrid environments, monitoring, identity protection |
+| AI in Security | Anomaly detection, alert enrichment, fraud/risk monitoring |
 
 ---
 
-### 🔹 Incident Response & Malware Analysis Lab
-- Built a malware analysis lab for threat investigation  
-- Developed incident response workflows and playbooks  
-- Simulated real-world attack scenarios  
+## Executive Summary
 
-🔗 *(Add your repo link here)*
+I build resilient, compliant, business-aligned security programs — spanning governance, SOC operations, IAM, digital forensics, infrastructure security, and regulatory readiness. Currently positioning toward senior cybersecurity leadership and CISO-track roles, with a focus on moving organizations from reactive security operations to measurable cyber resilience.
 
 ---
 
-## 🧠 Strategic Security Projects (Leadership-Focused)
+## Featured Work
 
-### 🔹 Cybersecurity Risk Assessment Framework
-- Developed enterprise risk assessment model  
-- Mapped risks to ISO 27001 / NIST controls  
-- Created mitigation and remediation strategies  
+> Case studies and frameworks from fintech security leadership work. Links point to write-ups, templates, or "request access" — these are governance and strategy artifacts, not all open-source code repos, and are labeled accordingly.
 
----
+### 🔐 Cyber Resilience Transformation Program
+Leadership model for strengthening digital payment and enterprise technology environments — SIEM/XDR/EDR integration, incident response improvement, vulnerability management governance, and executive risk reporting.
+📄 *Case study: [add link]*
 
-### 🔹 Zero Trust Security Architecture
-- Designed Zero Trust model for enterprise environments  
-- Integrated IAM, network segmentation, and monitoring  
-- Applied Microsoft security architecture principles  
+### 🧭 SOC Optimization & Detection Engineering Framework
+Practical framework for improving alert quality and response workflows — use-case design, triage workflow, incident classification, MTTD/MTTR metrics.
+📄 *Framework write-up: [add link]*
 
----
+### 🔑 IAM Governance Framework
+Identity governed as a control function — joiner/mover/leaver process, RBAC structure, privileged access review, segregation of duties mapping.
+📄 *Framework write-up: [add link]*
 
-### 🔹 Cloud Security Architecture (Azure)
-- Designed secure cloud architecture using Microsoft stack  
-- Implemented identity protection, monitoring, and compliance controls  
+### 🚨 Incident Response & Digital Forensics Playbook
+End-to-end IR framework — first-hour checklist, evidence preservation, RCA format, post-incident review template.
+📄 *Playbook overview: [add link]*
 
----
+<details>
+<summary><strong>More: AI-Enabled Monitoring, Zero Trust Architecture, Risk Assessment Framework</strong></summary>
+<br/>
 
-## 📊 Core Competencies
+- **AI-Enabled Security Monitoring Concept** — anomaly detection, risk scoring, human-in-the-loop review for fraud/transaction monitoring.
+- **Cloud & Zero Trust Security Architecture** — identity-first access, segmentation, conditional access, compliance control mapping.
+- **Cybersecurity Risk Assessment Framework** — risk register, ISO 27001/NIST control mapping, treatment planning, executive reporting.
 
-- Cybersecurity Strategy & Leadership  
-- Governance, Risk & Compliance (GRC)  
-- Security Operations & Incident Response  
-- Identity & Access Management (IAM)  
-- Detection Engineering & Threat Intelligence  
-- AI in Cybersecurity  
-
----
-
-## 🤝 Connect with Me
-
-🔗 LinkedIn: https://linkedin.com/in/harvey-sijenyi/  
+</details>
 
 ---
 
-## ⚡ Strategic Positioning
+## Articles & Publications
 
-I am focused on transitioning into senior cybersecurity leadership roles, 
-driving enterprise security strategy, cyber resilience, and risk governance.
+Security writing across LinkedIn and a dedicated archive of long-form pieces.
+
+- ✍️ **LinkedIn Articles:** [linkedin.com/in/harvey-sijenyi/recent-activity/articles](https://www.linkedin.com/in/harvey-sijenyi/recent-activity/articles/)
+- 📂 **Archive (Google Drive):** [Cyber Security Articles folder](https://drive.google.com/drive/u/0/folders/1VJkwX8jaKSaUnd1tIfoo_ECjIGbRtjqu)
+
+*(Individual article titles/links can be added here as a list once finalized.)*
 
 ---
+
+## Tools & Technologies
+
+![SIEM/XDR](https://img.shields.io/badge/-SIEM%2FXDR-005571?style=flat-square)
+![ISO27001](https://img.shields.io/badge/-ISO%2027001-0052CC?style=flat-square)
+![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-1B1F23?style=flat-square)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![IAM/RBAC](https://img.shields.io/badge/-IAM%2FRBAC-6E40C9?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![GDPR/KDPA](https://img.shields.io/badge/-GDPR%2FKDPA-7B1FA2?style=flat-square)
+
+---
+
+## Speaking & Recognition
+
+- 🏆 Top 40 Under 40 Male Personality in Kenya (2024)
+- 🎙️ Speaker — BFSI Week, Africa CISO Summit
+- 📝 Assistant Secretary, ISC² Kenya Chapter
+- ✍️ Active voice on LinkedIn covering fintech security, AI-era cybersecurity, and infrastructure resilience
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub stats"/>
+</p>
+
+*(Swap `YOUR_GITHUB_USERNAME` for your actual handle once this is in your profile repo.)*
+
+---
+
+## Connect
+
+- 💼 LinkedIn: [linkedin.com/in/harvey-sijenyi](https://linkedin.com/in/harvey-sijenyi/)
+- 🌐 Consulting (Datadala): support@datadala.io
+
+---
+
+<p align="center">
+  <strong>Cybersecurity is not only about tools. It is about resilience, governance, accountability, and business trust.</strong>
+</p>
